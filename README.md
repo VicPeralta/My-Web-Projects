@@ -11,9 +11,9 @@ Here you will find some of my works
 A simple but handy utility program that allows you to keep your pending task at hand.
 
 <img src="./toDoList.png">
-<button style='padding:20px;width:150px; margin-bottom:10px;background-color:white; cursor:pointer' onclick="window.location.href='https://github.com/VicPeralta/to-Do-List"><img src='./github.svg'>Source Code</button>
 
-<button style='padding:20px; width:150px;margin-bottom:10px; background-color:white; font-size:larger' onclick="window.location.href='https://vicperalta.github.io/to-Do-List/">Live Demo</button>
-</div>
+[Source Code](https://github.com/VicPeralta/to-Do-List)   
+
+[Live demo](https://vicperalta.github.io/to-Do-List/)
 
 
