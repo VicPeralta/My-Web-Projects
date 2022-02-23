@@ -9,7 +9,7 @@ Here you will find some of my works
 
 <div> 
 <h1>Capablanca Memorial</h1>
-A site about a Chess event of one of the greates chess players
+A site about a Chess event of one of the greatest chess players of all time.
 
 <img src="./capablancaEvent.png">
 
@@ -21,7 +21,9 @@ A site about a Chess event of one of the greates chess players
 
 <div> 
 <h1>ToDo List</h1>
-A simple but handy utility program that allows you to keep your pending tasks at hand.
+A simple but handy utility program that allows you to keep your pending tasks at hand.    
+
+You can rearrange the task order.
 
 <img src="./toDoList.png">
 
@@ -31,3 +33,16 @@ A simple but handy utility program that allows you to keep your pending tasks at
 
 </div>
 
+<div> 
+<h1>Awesome Books</h1>
+A simple but handy utility program that allows you to keep your book list tasks at hand.   
+
+You can rearrange the order of the books.
+
+<img src="./awesome.png">
+
+[Source Code](https://github.com/VicPeralta/Awesome_Books_ES6)   
+
+[Live demo](https://vicperalta.github.io/Awesome_Books_ES6/)
+
+</div>
